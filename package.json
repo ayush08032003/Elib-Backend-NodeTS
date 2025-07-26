@@ -1,0 +1,22 @@
+{
+  "name": "elib",
+  "version": "1.0.0",
+  "description": "This is a ebook API project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.ts"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "Ayush Walker <ayushwalker2003@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
