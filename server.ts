@@ -1,1 +1,1 @@
-console.log("Welcome to Ebook API");
+console.log("Welcome to ebook APIs")
